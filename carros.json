@@ -1,0 +1,32 @@
+[
+    {
+        "marca": "Ford",
+        "modelo": "Mustang GT",
+        "ano": 1969
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Mustang GT",
+        "ano": 1969        
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Camaro Z/28",
+        "ano": 1970
+    },
+    {
+        "marca": "Toyota",
+        "modelo": "Supra",
+        "ano": 1994
+    },
+    {
+        "marca": "Porsche",
+        "modelo": "911 Turbo",
+        "ano": 1980        
+    },
+    {
+        "marca": "Volkswagen",
+        "modelo": "Fusca",
+        "ano": 1972
+    }
+]
